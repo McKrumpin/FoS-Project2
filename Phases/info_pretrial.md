@@ -1,18 +1,18 @@
 ---
-title: Home
-layout: home
-nav_order: 1
+title: Pre-Trial
+layout: page
+nav_order: 2
 permalink: /
 ---
 
-# Just Another Simulation
+# Pre-Trial
 
-![Placeholder](assets/images/placeholder.png)
+This phase covers how the ICC begins to send a case to the pre-trial court
 
-This is a template for creating new simulations.
+Roles:
+    Referrer Country
+    UNSec Council
+    ICC Prosecutor
+    ICC Jurisdiction Analyst
+    ICC Investigator
 
-Below is a list of resources about the website.
-
-- [GitHub Repository](https://github.com/future-of-security/simulation-template)
-- [Markdown Examples](https://github.com/just-the-docs/just-the-docs/blob/main/docs/index-test.md) -> [Generated Page](https://just-the-docs.com/docs/index-test/)
-- [GitHub Pages](https://pages.github.com/)
