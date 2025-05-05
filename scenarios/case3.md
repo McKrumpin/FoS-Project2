@@ -18,13 +18,13 @@ This section presents key appellate case scenarios reviewed by the International
 
 ## Gbagbo and Blé Goudé Case
 
-Case Title: The Prosecutor v. Bosco Ntaganda
-Case Number: ICC-01/04-02/06
-Status: Sentence Being Served
-Decision: Convicted and Sentence Confirmed on Appeal
-Position of the Accused: Former Deputy Chief of Staff and Commander of Operations of the FPLC
-Time of Alleged Crimes: 2002–2003
-Location: Ituri District, Democratic Republic of the Congo
+**Case Title:** The Prosecutor v. Bosco Ntaganda
+**Case Number:** ICC-01/04-02/06
+**Status:** Sentence Being Served
+**Decision:** Convicted and Sentence Confirmed on Appeal
+**Position of the Accused:** Former Deputy Chief of Staff and Commander of Operations of the FPLC
+**Time of Alleged Crimes:** 2002–2003
+**Location:** Ituri District, Democratic Republic of the Congo
 **Official Case Page:** [https://www.icc-cpi.int/drc/ntaganda](https://www.icc-cpi.int/drc/ntaganda)
 
 

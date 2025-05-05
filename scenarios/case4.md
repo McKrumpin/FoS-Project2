@@ -18,13 +18,13 @@ This section presents key appellate case scenarios reviewed by the International
 
 ## Ongwen Case
 
-Case Title: The Prosecutor v. Dominic Ongwen  
-Case Number: ICC-02/04-01/15  
-Status: Sentence Being Served  
-Decision: Convicted and Sentence Confirmed on Appeal  
-Position of the Accused: Brigade Commander of the Sinia Brigade of the Lord’s Resistance Army (LRA)  
-Time of Alleged Crimes: 2002–2005  
-Location: Northern Uganda  
+**Case Title:** The Prosecutor v. Dominic Ongwen  
+**Case Number:** ICC-02/04-01/15  
+**Status:** Sentence Being Served  
+**Decision:** Convicted and Sentence Confirmed on Appeal  
+**Position of the Accused:** Brigade Commander of the Sinia Brigade of the Lord’s Resistance Army (LRA)  
+**Time of Alleged Crimes:** 2002–2005  
+**Location:** Northern Uganda  
 **Official Case Page:** [https://www.icc-cpi.int/uganda/ongwen](https://www.icc-cpi.int/uganda/ongwen)
 
 ### Charges:
