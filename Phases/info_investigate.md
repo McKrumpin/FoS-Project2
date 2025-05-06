@@ -1,6 +1,7 @@
 ---
 title: Investigation
 layout: page
+parent: Phases
 nav_order: 1
 permalink: /
 ---
