@@ -3,7 +3,6 @@ title: Appeals
 layout: page
 parent: Phases
 nav_order: 4
-permalink: /
 ---
 
 # Appeals
