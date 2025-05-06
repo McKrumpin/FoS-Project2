@@ -3,6 +3,7 @@ title: Pre-Trial
 layout: page
 parent: Phases
 nav_order: 2
+permalink: /phases/phase2
 ---
 
 # Pre-Trial
