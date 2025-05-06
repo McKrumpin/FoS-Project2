@@ -7,11 +7,18 @@ permalink: /
 
 # Trial
 
-This phase covers how the ICC begins to send a case to the pre-trial court
+After the Pre-Trial Chamber confirms the charges, a new Trial Chamber of three judges is assigned to conduct the main trial. The trial process includes:
+Opening Statements - The Prosecution outlines the case and its key evidence. The Defense presents their strategy and rebuttal themes.
+Presentation of Evidence - Witnesses testify, documentary/forensic/digital evidence is presented
+Closing statements
+Ruling - Judge reaches a verdict of guilty or not guilty
+Sentencing - Can include imprisonment, reparations to victims, and fines
 
 Roles:
-    Referrer Country
-    UNSec Council
+    ICC Trial Judge 1
+    ICC Trial Judge 2
+    ICC Trial Judge 3
     ICC Prosecutor
-    ICC Jurisdiction Analyst
-    ICC Investigator
+    Defense Lawyer
+    Witness
+    Witness
