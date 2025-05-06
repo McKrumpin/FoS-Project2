@@ -7,22 +7,58 @@ permalink: /
 
 # Appeals
 
-Following the trial verdict, either the Prosecution or Defense may file an appeal based on:
-Procedural errors (eg violation of fair trial rights)
-Legal errors (eg misapplication of legal standards)
-Evidentiary issues (eg wrongful admission or exclusion of evidence)
+After a **trial verdict**, either the **Prosecution** or **Defense** may submit an **appeal** to challenge the decision. Appeals are reviewed by the **Appeals Chamber**, which is composed of **five judges**.
 
-The Appeals Chamber, composed of five judges, reviews the claims and trial record. They do not reevaluate witnesses but may reconsider legal and factual conclusions. The chamber can:
-Uphold the original verdict and sentence
-Reverse the verdict (eg acquittal instead of conviction)
-Amend the judgment (eg reduce sentence, change charges)
-Order a retrial if the trial was fundamentally flawed
+---
 
-Roles:
-    ICC Appeal Judge 1 - Independently create a ruling, then work with other judges to create a majority (and possibly minority decision)
-    ICC Appeal Judge 2 - Independently create a ruling, then work with other judges to create a majority (and possibly minority decision)
-    ICC Appeal Judge 3 - Independently create a ruling, then work with other judges to create a majority (and possibly minority decision)
-    Apellant (Party who lost the Trial) 1 - Presents the errors they wish to appeal based on
-    Apellant (Party who lost the Trial) 2 - Presents the outcome they hope for from the appeal
-    Respondent (Party who who the trial) 1 - Contests the errors the appeal is based on
-    Respondent (Party who who the trial) 2 - Presents the outcome they hope for from the appeal
+### Grounds for Appeal
+
+- **Procedural Errors**  
+  Examples: violations of fair trial rights, improper handling of the trial process, or judicial misconduct.
+
+- **Legal Errors**  
+  Examples: misapplication or misinterpretation of international criminal law or procedural rules.
+
+- **Evidentiary Issues**  
+  Examples: wrongful admission or exclusion of evidence that significantly impacted the verdict.
+
+---
+
+### Appeals Process
+
+- The Appeals Chamber **does not call new witnesses** but thoroughly reviews the **trial record** and the arguments submitted.
+- Judges may reconsider:
+  - **Factual conclusions** (if clearly unreasonable)
+  - **Legal interpretations** and procedural decisions
+
+### Possible Outcomes
+
+- **Uphold** the original verdict and sentence  
+- **Reverse** the verdict (e.g., change a conviction to an acquittal)  
+- **Amend** the judgment (e.g., reduce the sentence, modify charges)  
+- **Order a retrial** if serious flaws undermined the fairness of the original trial
+
+---
+
+### Roles in the Simulation
+
+- **ICC Appeal Judge 1**  
+  Drafts an independent ruling; then works with the panel to form a **majority** or **minority opinion**.
+
+- **ICC Appeal Judge 2**  
+  Same as above; contributes personal interpretation of the appeal's merits.
+
+- **ICC Appeal Judge 3**  
+  Same as above; participates in the deliberation and final decision.
+
+- **Appellant 1** *(Party who lost the trial)*  
+  Presents the **errors** they believe justify overturning or altering the verdict.
+
+- **Appellant 2**  
+  Explains the **desired outcome** of the appeal (e.g., acquittal, reduced sentence).
+
+- **Respondent 1** *(Party who won the trial)*  
+  Defends against the alleged errors and supports the original ruling.
+
+- **Respondent 2**  
+  Describes the **preferred outcome** (e.g., affirmation of the verdict, increased sentence).

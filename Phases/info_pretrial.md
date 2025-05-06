@@ -7,19 +7,54 @@ permalink: /
 
 # Pre-Trial
 
-After a suspect is arrested or voluntarily surrenders to the ICC, a Pre-Trial Chamber of three judges conducts hearings to assess whether the case should proceed to trial. The main objectives of this phase are to:
-Verify the suspects identity and ensure their rights have been respected
-Confirm the charges - The prosecutor presents the evidence to show substantial grounds to believe the suspect committed the crime
-Challenges - The defense should contest the charges, the admissibility, and the jurisdiction
+Once a suspect is **arrested or voluntarily appears** before the ICC, the case enters the **Pre-Trial phase**, overseen by a **Pre-Trial Chamber** composed of three judges. The purpose of this phase is to determine whether the case is strong enough to proceed to trial.
 
-After hearing the arguments, the judges should each independently create a ruling (whether to confirm, decline, or amend the charges) on the basis on admissable evidence.
+---
 
-Roles:
-    Pre-Trial Judge 1 - Independently create a ruling, then work with other judges to create a majority (and possibly minority decision)
-    Pre-Trial Judge 2 - Independently create a ruling, then work with other judges to create a majority (and possibly minority decision)
-    Pre-Trial Judge 3 - Independently create a ruling, then work with other judges to create a majority (and possibly minority decision)
-    ICC Prosecutor 1 - Presents the charges against the suspect
-    ICC Prosecutor 2 - Contests arguments against the admissibility and the jurisdiction of the ICC
-    Defense Lawyer 1 - Contests the charges against the suspect
-    Defense Lawyer 2 - Presents arguments against the admissibility and the jurisdiction of the ICC
+### Key Objectives
 
+- **Verify the Suspect’s Identity & Rights**  
+  Confirm that the individual brought before the Court is the correct suspect and that their procedural rights have been respected throughout the process.
+
+- **Confirmation of Charges**  
+  The **Prosecutor** presents evidence to demonstrate **substantial grounds to believe** the suspect committed the alleged crimes. This is a higher threshold than the preliminary examination but lower than "beyond reasonable doubt."
+
+- **Legal Challenges**  
+  The **Defense** may challenge:
+  - **The charges themselves**
+  - **The admissibility** (e.g. national proceedings underway)
+  - **The jurisdiction** of the ICC (e.g. location or nationality of crime)
+
+---
+
+### Judicial Deliberation
+
+After reviewing all submissions:
+- Each **judge independently drafts a ruling** (to confirm, decline, or amend the charges).
+- The chamber works toward a **majority decision**. A **minority opinion** may be issued if unanimous agreement is not reached.
+- Only **admissible evidence** is considered when making these determinations.
+
+---
+
+### Roles in the Simulation
+
+- **Pre-Trial Judge 1**  
+  Drafts an independent ruling and collaborates on forming the chamber's majority (or minority) opinion.
+
+- **Pre-Trial Judge 2**  
+  Same as above; brings individual interpretation to the case before working with peers.
+
+- **Pre-Trial Judge 3**  
+  Same as above; part of deliberative process toward final decision.
+
+- **ICC Prosecutor 1**  
+  Presents the formal **charges** and outlines the factual basis.
+
+- **ICC Prosecutor 2**  
+  Responds to **challenges** regarding **admissibility** and **jurisdiction**.
+
+- **Defense Lawyer 1**  
+  Disputes the **charges** and questions the sufficiency of the evidence.
+
+- **Defense Lawyer 2**  
+  Argues that the case is **inadmissible** or that the ICC lacks **jurisdiction**.

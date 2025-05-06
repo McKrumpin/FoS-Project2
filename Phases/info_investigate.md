@@ -7,23 +7,69 @@ permalink: /
 
 # Investigation
 
-To begin ICC cases require a referral from one of three parties: 
-UN Security Council Referral - A UN Security Council referral requires the UN Security Council to hold a successful vote to grant jurisdiction to the ICC. This is often beneficial in cases where ...MORE HERE...
-State-Party Referral - A State-Party referral occurs when one or more states that has ratified the Rome Statute requests for an ICC investigation into a topic they believe will pass a preliminary examination. There is an uncommon form of a State-Party referral where a non-member state can refer itself and relinquish jurisdiction to the ICC.
-Prosecutor’s Proprio Motu Initiative - A Prosecutor's Proprio Motu Iniative is where an ICC Prosecutor believe a case is of sufficient gravity to where the ICC should iniate a case on its own. This method of referral requires more approval from a panel of 3 pre-trial judges than the other methods.
+ICC cases begin with a **referral**, which can come from one of three sources:
 
-Once the referral has been received, the Office of the prosecutor performs a preliminary examination. The preliminary examination includes:
-Jurisdiction Analysis - A core part of the preliminary examination is ensuring that the ICC has jurisdictional authority over the case. The ICC jurisdiction requires the criminal acts to have occured in the territory of a member state, or be committed by a member state. A recommendation from the UN Security Council automatically satisfies the ICC's jurisdictional requirement.
-Admissibility Check - The ICC only provides rulings on cases of crimes against humanity, genocide, and acts of aggression. 
-Interests of Justice - The ICC must also analyze whether their involvement in a case would be beneficial to the victims of the accused. 
+### Referral Mechanisms
 
-If the preliminary evaluation finds these three metrics sufficient the ICC opens a case and begins their investigation with the goal of collecting evidence, identifying suspects and potential charges, and requesting arrest warrants.
+- **UN Security Council Referral**  
+  Requires a successful vote by the UN Security Council to grant the ICC jurisdiction. This is often used when alleged crimes occur in non-member states or involve global security. Examples include referrals related to Libya and Sudan.
 
-Roles:
-    Referrer - needs to determine which party is most likely to submit a referral for the case
-    ICC Prosecutor 1 - Performs the jurisdictional analysis for the preliminary evaluation
-    ICC Prosecutor 2 - Performs the admissibility check for the preliminary evaluation
-    ICC Prosecutor 3 - Performs the Interests of Justice check for the preliminary evaluation
-    ICC Pre-Trial Judge - for Prosecutor’s Proprio Motu Initiative and issuance of arrest warrants
-    ICC Investigator 1 - Gathers evidence for the prosecution
-    ICC Investigator 2 - Gathers evidence for the prosecution
+- **State Party Referral**  
+  A State Party to the Rome Statute may refer a situation to the ICC if it believes crimes under the Court’s jurisdiction have occurred. Uniquely, a non-member state may also self-refer by accepting the ICC’s jurisdiction under Article 12(3). This mechanism has been used in cases like Uganda and the Democratic Republic of Congo.
+
+- **Prosecutor’s *Proprio Motu* Initiative**  
+  Allows the ICC Prosecutor to initiate an investigation without a referral, based on independently gathered information. However, this route requires authorization from a **Pre-Trial Chamber of three judges**, making it procedurally more demanding.
+
+---
+
+### Preliminary Examination
+
+After a referral is received, the **Office of the Prosecutor (OTP)** conducts a **preliminary examination** to assess whether a full investigation is warranted. This includes three key tests:
+
+- **Jurisdiction Analysis**  
+  Determines whether the ICC has territorial or personal jurisdiction. The Court may proceed if:
+  - The crimes occurred on the territory of a State Party; or
+  - The accused is a national of a State Party; or
+  - The situation is referred by the UN Security Council.
+
+- **Admissibility Check**  
+  Assesses:
+  - **Gravity**: Are the crimes serious enough (e.g. genocide, crimes against humanity, war crimes)?
+  - **Complementarity**: Are national jurisdictions unwilling or unable to investigate?
+
+- **Interests of Justice**  
+  Evaluates whether opening an investigation serves the interests of victims and affected communities. This includes assessing reconciliation efforts and potential harm caused by prosecutorial action.
+
+If all three criteria are satisfied, the OTP may formally open a case, triggering the **investigation phase**.
+
+---
+
+### Investigation Phase
+
+The investigation seeks to:
+- Collect and preserve evidence
+- Identify suspects and their roles
+- Develop potential charges
+- Request arrest warrants from the Pre-Trial Chamber
+
+---
+
+### Roles in the Simulation
+
+- **Referrer**  
+  Chooses which referral mechanism best fits the case context.
+
+- **ICC Prosecutor 1**  
+  Conducts the **jurisdictional analysis**.
+
+- **ICC Prosecutor 2**  
+  Conducts the **admissibility check**.
+
+- **ICC Prosecutor 3**  
+  Conducts the **interests of justice** review.
+
+- **ICC Pre-Trial Judge**  
+  Reviews requests for arrest warrants and approves *Proprio Motu* investigations.
+
+- **ICC Investigator 1 & 2**  
+  Work to gather and organize evidence that supports potential charges.
