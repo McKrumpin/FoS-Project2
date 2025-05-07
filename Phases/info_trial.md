@@ -3,6 +3,7 @@ title: Trial
 layout: page
 parent: Phases
 nav_order: 3
+permalink: /phases/phase3
 ---
 
 # Trial
