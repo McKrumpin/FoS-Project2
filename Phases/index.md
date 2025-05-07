@@ -4,6 +4,6 @@ layout: page
 nav_order: 3
 ---
 
-# Resources
+# Phases
 
-You may add more resources in the `Phases` folder.
+Click the link to any phase below in order to learn more.

@@ -25,7 +25,7 @@ ICC cases begin with a **referral**, which can come from one of three sources:
 
 ### Preliminary Examination
 
-After a referral is received, the **Office of the Prosecutor (OTP)** conducts a **preliminary examination** to assess whether a full investigation is warranted. This includes three key tests:
+After a referral is received, the **Office of the Prosecutor (OTP)** conducts a **preliminary examination** to assess whether a full investigation is warranted [see ICC OTP Policy Paper](https://www.icc-cpi.int/sites/default/files/documents/OTP-Policy_Paper_Preliminary_Examinations_2013-ENG.pdf). This includes three key tests:
 
 - **Jurisdiction Analysis**  
   Determines whether the ICC has territorial or personal jurisdiction. The Court may proceed if:
@@ -74,3 +74,11 @@ The investigation seeks to:
 
 - **ICC Investigator 1 & 2**  
   Work to gather and organize evidence that supports potential charges.
+
+---
+
+### More Resources
+
+[Learn more about the case selection and prioritization of the ICC](https://www.icc-cpi.int/sites/default/files/itemsDocuments/20160915_OTP-Policy_Case-Selection_Eng.pdf)
+
+[Learn more about the office of the prosecutor](https://www.icc-cpi.int/sites/default/files/NR/rdonlyres/1FA7C4C6-DE5F-42B7-8B25-60AA962ED8B6/143594/030905_Policy_Paper.pdf)
