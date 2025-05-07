@@ -8,6 +8,8 @@ permalink: /phases/phase1
 
 # Investigation
 
+![Placeholder](assets/images/investigate_header.png)
+
 ICC cases begin with a **referral**, which can come from one of three sources:
 
 ### Referral Mechanisms
@@ -79,6 +81,6 @@ The investigation seeks to:
 
 ### More Resources
 
-[Learn more about the case selection and prioritization of the ICC](https://www.icc-cpi.int/sites/default/files/itemsDocuments/20160915_OTP-Policy_Case-Selection_Eng.pdf)
+- **[Learn more about the case selection and prioritization of the ICC](https://www.icc-cpi.int/sites/default/files/itemsDocuments/20160915_OTP-Policy_Case-Selection_Eng.pdf)**
 
-[Learn more about the office of the prosecutor](https://www.icc-cpi.int/sites/default/files/NR/rdonlyres/1FA7C4C6-DE5F-42B7-8B25-60AA962ED8B6/143594/030905_Policy_Paper.pdf)
+- **[Learn more about the office of the prosecutor](https://www.icc-cpi.int/sites/default/files/NR/rdonlyres/1FA7C4C6-DE5F-42B7-8B25-60AA962ED8B6/143594/030905_Policy_Paper.pdf)**
