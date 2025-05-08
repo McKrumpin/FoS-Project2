@@ -1,10 +1,21 @@
 center:
-  latitude: 37.229572
-  longitude: -80.413940
-  zoom: 9
+  latitude: 4.39467
+  longitude: 18.55822
+  zoom: 6
 locations:
-  - name: VT
-    description: Go Hokies!
-    latitude: 37.2249991
-    longitude: -80.4249983
-    url: https://www.vt.edu
+  - name: Central African Republic (CAR)
+    description: Location of the conflict in the Central African Republic.
+    latitude: 6.6113
+    longitude: 20.9396
+  - name: Côte d'Ivoire
+    description: Location of the events in Côte d'Ivoire.
+    latitude: 7.5400
+    longitude: -5.8100
+  - name: Ituri District, Democratic Republic of the Congo
+    description: Location of the crimes in Ituri District, DRC.
+    latitude: 1.87
+    longitude: 29.05
+  - name: Northern Uganda
+    description: Location of the conflict in Northern Uganda.
+    latitude: 2.5
+    longitude: 32.0
