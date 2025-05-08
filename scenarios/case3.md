@@ -14,6 +14,7 @@ This section presents key appellate case scenarios reviewed by the International
 ## The Prosecutor v. Bosco Ntaganda
 
 ![Bosco Ntaganda](../assets/images/Ntaganga.jpg)
+
 *Bosco Ntaganda*
 
 ## Gbagbo and Blé Goudé Case

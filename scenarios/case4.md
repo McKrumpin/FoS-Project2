@@ -14,6 +14,7 @@ This section presents key appellate case scenarios reviewed by the International
 ## The Prosecutor v. Dominic Ongwen
 
 ![Dominic Ongwen](../assets/images/Ongwen.jpg)
+
 *Dominic Ongwen*
 
 ## Ongwen Case
