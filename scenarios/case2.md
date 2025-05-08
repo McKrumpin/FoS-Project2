@@ -1,8 +1,8 @@
 ---
 title: Gbagbo and Blé Goudé Case
 layout: event
-parent: Scenarios
-nav_order: 1
+parent: scenarios
+nav_order: 2
 ---
 
 # Case
@@ -11,10 +11,10 @@ This section presents key appellate case scenarios reviewed by the International
 
 ---
 
-![Charles Blé Goudé](../assets/images/Charles_Goude.jpg)
+![Charles Blé Goudé](/assets/images/Charles_Goude.jpg)
 *Charles Blé Goudé*
 
-![Lauret_Gbagbo](../assets/images/Lauret_Gbagbo.jpg)
+![Lauret_Gbagbo](/assets/images/Laurent_Gbagbo.jpg)
 *Lauret Gbagbo*
 
 ## Gbagbo and Blé Goudé Case
