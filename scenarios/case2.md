@@ -11,10 +11,10 @@ This section presents key appellate case scenarios reviewed by the International
 
 ---
 
-![Charles Blé Goudé](/assets/images/Charles_Goude.jpg)
+![Charles Blé Goudé](FoS-Project2/assets/images/Charles_Goude.jpg)
 *Charles Blé Goudé*
 
-![Lauret_Gbagbo](/assets/images/Laurent_Gbagbo.jpg)
+![Lauret_Gbagbo](FoS-Project2/assets/images/Laurent_Gbagbo.jpg)
 *Lauret Gbagbo*
 
 ## Gbagbo and Blé Goudé Case
