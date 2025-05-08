@@ -11,7 +11,7 @@ This section presents key appellate case scenarios reviewed by the International
 
 ---
 
-![Charles Blé Goudé](FoS-Project2/assets/images/Charles_Goude.jpg)
+![Charles Blé Goudé](../assets/images/placeholder.png)
 *Charles Blé Goudé*
 
 ![Lauret_Gbagbo](FoS-Project2/assets/images/Laurent_Gbagbo.jpg)
