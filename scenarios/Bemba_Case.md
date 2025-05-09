@@ -11,8 +11,7 @@ This section presents key appellate case scenarios reviewed by the International
 
 ---
 
-![Jean-Pierre Bemba](https://upload.wikimedia.org/wikipedia/commons/4/44/The_Vice_President_of_Democratic_Republic_of_Congo%2C_Mr._Jean_Pierre_Bemba_calls_on_the_Vice_President_Shri_Bhairon_Singh_Shekhawat_in_New_Delhi_on_March_3%2C_2005_%28cropped%29.jpg)
-*Jean-Pierre Bemba*
+![Jean-Pierre Bemba](/assets/images/bemba.jpg)
 
 *Jean-Pierre Bemba*
 
