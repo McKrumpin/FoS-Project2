@@ -10,15 +10,6 @@ Welcome to the simulation hub. Explore the real-world-inspired cases below to st
 
 ---
 
-## 🗂️ Available Cases
-
-- [Case 1: The Prosecutor v. Jean-Pierre Bemba Gombo](https://mckrumpin.github.io/FoS-Project2/scenarios/Bemba_Case/)
-- [Case 2: Gbagbo and Blé Goudé Case](https://mckrumpin.github.io/FoS-Project2/scenarios/case2.md)
-- [Case 3: The Prosecutor v. Bosco Ntaganda](https://mckrumpin.github.io/FoS-Project2/scenarios/case3.md)
-- [Case 4: The Prosecutor v. Dominic Ongwen](https://mckrumpin.github.io/FoS-Project2/scenarios/case4.md)
-
----
-
 ## 🧭 Instructions
 
 - Click a case to view background details and available roles.
