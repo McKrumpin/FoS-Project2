@@ -11,3 +11,10 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
+include:
+  - assets/images/bemba.jpeg
+  - assets/images/Charles_Goude.jpeg
+  - assets/images/Laurent_Gbagbo.jpeg
+  - assets/images/Ntaganga.jpeg
+  - assets/images/Ongwen.jpeg
