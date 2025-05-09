@@ -8,7 +8,7 @@ permalink: /phases/phase2
 
 # Pre-Trial
 
-![Header Visual](../assets/images/icc.jpeg)
+![Header Visual](../assets/images/pre_trial.jpeg)
 
 Once a suspect is **arrested or voluntarily appears** before the ICC, the case enters the **Pre-Trial phase**, overseen by a **Pre-Trial Chamber** of three judges. This phase determines whether the case has enough evidence and legal basis to proceed to trial.
 
