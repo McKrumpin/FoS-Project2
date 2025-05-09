@@ -11,3 +11,6 @@ exclude:
   - README.md
   - Gemfile
   - Gemfile.lock
+
+include:
+  - assets/images
