@@ -1,7 +1,7 @@
 ----
 title: Submission Board
 layout: page
-nav_order: 4
+nav_order: 5
 ---
 
 <h1>📝 Submission Board</h1>
