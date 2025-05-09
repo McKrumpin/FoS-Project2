@@ -2,6 +2,7 @@
 title: Submission Board
 layout: page
 nav_order: 5
+permalink: /submissionboard
 ---
 
 <h1>📝 Submission Board</h1>
