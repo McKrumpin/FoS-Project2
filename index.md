@@ -30,6 +30,7 @@ This project is a student-driven experience designed to simulate the operations 
 
 ## 🚀 Get Started
 
+- [Background](/background.md) - For background on the simulation.
 - ▶️ [Explore Scenarios](/scenarios) — Choose a case to begin.
 - 👥 [Understand the Phases](/phases) — Learn what each phase does. And the roles for that phase
 
@@ -38,7 +39,5 @@ This project is a student-driven experience designed to simulate the operations 
 ## 📚 Additional Resources
 
 - [GitHub Repository](https://github.com/McKrumpin/FoS-Project2/blob/main/scenarios/index.md)
-- [Markdown Examples](https://github.com/just-the-docs/just-the-docs/blob/main/docs/index-test.md)
-- [GitHub Pages](https://pages.github.com/)
 
 ---

@@ -8,7 +8,7 @@ permalink: /phases/phase3
 
 # Trial
 
-!![Header Visual](assets/images/icc.jpeg)
+![Header Visual](../assets/images/icc.jpeg)
 
 Once the **Pre-Trial Chamber confirms the charges**, the case advances to the **Trial phase**, overseen by a new **Trial Chamber** of three judges. This is the central stage of the ICC process where the Court determines the **guilt or innocence** of the accused.
 

@@ -8,7 +8,7 @@ permalink: /phases/phase4
 
 # Appeals
 
-!![Header Visual](assets/images/icc.jpeg)
+![Header Visual](../assets/images/icc.jpeg)
 
 After a **trial concludes**, either party may submit an **appeal** challenging the verdict or sentence. Appeals are reviewed by the **Appeals Chamber**, composed of **five judges**, who reassess the fairness and legality of the trial outcome.
 
