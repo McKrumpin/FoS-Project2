@@ -31,8 +31,7 @@ This project is a student-driven experience designed to simulate the operations 
 ## 🚀 Get Started
 
 - ▶️ [Explore Scenarios](/scenarios) — Choose a case to begin.
-- 👥 [Understand the Roles](/roles) — Learn what each participant does.
-- 📜 [Review the ICC Framework](/resources/framework) — Dig into the legal structure.
+- 👥 [Understand the Phases](/phases) — Learn what each phase does. And the roles for that phase
 
 ---
 
