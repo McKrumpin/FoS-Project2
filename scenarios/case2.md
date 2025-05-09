@@ -1,7 +1,7 @@
 ---
 title: Gbagbo and Blé Goudé Case
 layout: event
-parent: scenarios
+parent: Scenarios
 nav_order: 2
 ---
 
