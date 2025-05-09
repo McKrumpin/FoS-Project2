@@ -11,7 +11,7 @@ Step into the courtroom. Take on the role of prosecutor, judge, or investigator 
 
 ---
 
-![ICC Banner](/assets/images/icc.jpeg)
+![ICC Banner](/FoS-Project2/assets/images/icc.jpeg)
 
 
 
