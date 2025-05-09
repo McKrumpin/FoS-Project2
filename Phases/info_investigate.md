@@ -8,7 +8,7 @@ permalink: /phases/phase1
 
 # Investigation
 
-![Placeholder](assets/images/investigate_header.png)
+![Header Visual](../assets/images/icc.jpeg)
 
 ICC cases begin with a **referral**, which can come from one of three sources:
 

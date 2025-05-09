@@ -8,58 +8,69 @@ permalink: /phases/phase4
 
 # Appeals
 
-After a **trial verdict**, either the **Prosecution** or **Defense** may submit an **appeal** to challenge the decision. Appeals are reviewed by the **Appeals Chamber**, which is composed of **five judges**.
+![Header Visual](../assets/images/icc.jpeg)
+
+After a **trial concludes**, either party may submit an **appeal** challenging the verdict or sentence. Appeals are reviewed by the **Appeals Chamber**, composed of **five judges**, who reassess the fairness and legality of the trial outcome.
 
 ---
 
-### Grounds for Appeal
+### Basis for Appeal
+
+The Appeals Chamber considers whether the original trial was compromised by key issues:
 
 - **Procedural Errors**  
-  Examples: violations of fair trial rights, improper handling of the trial process, or judicial misconduct.
+  Examples include violations of due process, unfair treatment of the accused, or misconduct during trial proceedings.
 
 - **Legal Errors**  
-  Examples: misapplication or misinterpretation of international criminal law or procedural rules.
+  Errors in applying or interpreting international criminal law, including misread statutes or incorrect rulings.
 
 - **Evidentiary Issues**  
-  Examples: wrongful admission or exclusion of evidence that significantly impacted the verdict.
+  Wrongful admission or exclusion of evidence that may have significantly influenced the outcome.
 
 ---
 
-### Appeals Process
+### Appeals Procedure
 
-- The Appeals Chamber **does not call new witnesses** but thoroughly reviews the **trial record** and the arguments submitted.
-- Judges may reconsider:
-  - **Factual conclusions** (if clearly unreasonable)
-  - **Legal interpretations** and procedural decisions
+- The Appeals Chamber reviews the **trial record and written submissions**; it does **not rehear witnesses**.
+- Judges may:
+  - Reassess factual findings that appear unreasonable
+  - Reinterpret legal arguments and correct procedural flaws
+
+The focus is on whether the trial was conducted in a **fair, impartial, and lawful** manner.
+
+---
 
 ### Possible Outcomes
 
-- **Uphold** the original verdict and sentence  
-- **Reverse** the verdict (e.g., change a conviction to an acquittal)  
-- **Amend** the judgment (e.g., reduce the sentence, modify charges)  
-- **Order a retrial** if serious flaws undermined the fairness of the original trial
+Based on its review, the Appeals Chamber may:
+
+- **Uphold** the original judgment and sentence  
+- **Reverse** the conviction or acquittal  
+- **Amend** the charges or sentence (e.g. reduce or increase punishment)  
+- **Order a retrial** if critical flaws are found
 
 ---
 
 ### Roles in the Simulation
 
-- **ICC Appeal Judge 1**  
-  Drafts an independent ruling; then works with the panel to form a **majority** or **minority opinion**.
+- **Appeals Judge 1, 2, & 3**  
+  Each judge drafts an individual ruling and works toward a chamber-wide majority or minority opinion.
 
-- **ICC Appeal Judge 2**  
-  Same as above; contributes personal interpretation of the appeal's merits.
-
-- **ICC Appeal Judge 3**  
-  Same as above; participates in the deliberation and final decision.
-
-- **Appellant 1** *(Party who lost the trial)*  
-  Presents the **errors** they believe justify overturning or altering the verdict.
+- **Appellant 1** *(Losing Party at Trial)*  
+  Identifies specific legal or procedural errors and argues why the verdict should be overturned.
 
 - **Appellant 2**  
-  Explains the **desired outcome** of the appeal (e.g., acquittal, reduced sentence).
+  Proposes a preferred result—such as acquittal or sentence reduction.
 
-- **Respondent 1** *(Party who won the trial)*  
-  Defends against the alleged errors and supports the original ruling.
+- **Respondent 1** *(Winning Party at Trial)*  
+  Defends the trial verdict and challenges the basis of the appeal.
 
 - **Respondent 2**  
-  Describes the **preferred outcome** (e.g., affirmation of the verdict, increased sentence).
+  Argues for confirmation of the ruling or even an increase in sentence or conviction scope.
+
+---
+
+### More Resources
+
+- **[Overview of the ICC Appeals Process](https://www.icc-cpi.int/about/how-the-court-works)**
+- **[Rome Statute – Part 8: Appeal and Revision](https://legal.un.org/icc/statute/99_corr/8.htm)**
