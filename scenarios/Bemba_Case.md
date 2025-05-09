@@ -11,7 +11,7 @@ This section presents key appellate case scenarios reviewed by the International
 
 ---
 
-![Jean-Pierre Bemba](/FoS-Project2/assets/images/bemba.png)
+![Jean-Pierre Bemba](/FoS-Project2/assets/images/bemba.png)<br>
 *Jean-Pierre Bemba*
 
 ## Jean-Pierre Bemba (2018)
