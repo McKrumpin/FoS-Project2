@@ -11,7 +11,9 @@ Step into the courtroom. Take on the role of prosecutor, judge, or investigator 
 
 ---
 
-![ICC Banner](/assets/images/icc.jpeg)
+
+<img src="/assets/images/icc.jpeg" alt="ICC Banner" width="600" style="display: block; margin: auto;" />
+
 
 > *“The arc of the moral universe is long, but it bends toward justice.”*  
 > — Martin Luther King Jr.

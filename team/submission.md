@@ -1,8 +1,8 @@
-----
-title: Submission Board
+---
+title: Submission Format
 layout: page
-nav_order: 5
-permalink: /submissionboard
+parent: Team
+nav_order: 3
 ---
 
 <h1>📝 Submission Board</h1>
