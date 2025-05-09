@@ -13,7 +13,7 @@ This section presents key appellate case scenarios reviewed by the International
 
 ## The Prosecutor v. Bosco Ntaganda
 
-![Bosco Ntaganda](../assets/images/Ntaganga.jpeg)
+![Bosco Ntaganda](Ntaganga.jpeg)
 
 *Bosco Ntaganda*
 

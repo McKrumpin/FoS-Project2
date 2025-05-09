@@ -15,7 +15,7 @@ This section presents key appellate case scenarios reviewed by the International
 
 *Charles Blé Goudé*
 
-![Lauret_Gbagbo](../assets/images/Laurent_Gbagbo.jpeg)
+![Lauret_Gbagbo](Laurent_Gbagbo.jpeg)
 
 *Lauret Gbagbo*
 
